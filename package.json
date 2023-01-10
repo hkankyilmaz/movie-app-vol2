@@ -1,5 +1,5 @@
 {
-  "name": "movie-app-vol2",
+  "name": "netfilms",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,11 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/font": "13.1.1",
-    "eslint": "8.31.0",
-    "eslint-config-next": "13.1.1",
-    "next": "13.1.1",
+    "@next/font": "^13.0.5",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.5",
+    "next": "13.0.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.6.0"
   }
 }
